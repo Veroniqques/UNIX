@@ -6,3 +6,5 @@
 
 * [0_git_basics-master](https://github.com/Veroniqques/UNIX/tree/main/0_git_basics-master)
 * [1_echo_server-master](https://github.com/Veroniqques/UNIX/tree/main/1_echo_server-master)
+* [2_threaded_server-master](https://github.com/Veroniqques/UNIX/tree/main/2_threaded_server-master)
+
