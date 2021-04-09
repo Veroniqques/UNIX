@@ -1,5 +1,5 @@
 
-<img src=http://s42.radikal.ru/i096/1304/f2/a1051f3e133d.jpg width="500" height="350" align="left"/>
+<img src=https://99px.ru/sstorage/53/2019/03/tmb_253719_665700.jpg width="500" height="350" align="right"/>
 
 # UNIX
 ## Домашние работы по предмету "Операционные системы семейства UNIX и сетевые технологии"
