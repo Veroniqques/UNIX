@@ -63,7 +63,7 @@ sock = socket.socket()
 port = 9090
 while True:
     try:
-        sock.bind(('', port))
+        sock.bind(('localhost', port))
         print("Сервер запущен на порту -", port)
         logging.info(f"Сервер запущен на порту - {port}")
         break
