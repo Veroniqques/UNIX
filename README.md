@@ -10,7 +10,7 @@
 * [3_Parallelism-master](https://github.com/Veroniqques/UNIX/tree/main/3_Parallelism-master)
 * [4_asyncio_server-master](https://github.com/Veroniqques/UNIX/tree/main/4_asyncio_server-master)
 * [5_FTP_server-master (В процессе)](https://github.com/Veroniqques/UNIX/tree/main/5_FTP_server-master)
-* [6_Web_server-master (В процессе изучения)](https://github.com/Veroniqques/UNIX/tree/main/6_Web_server-master)
+* [6_Web_server-master (В процессе)](https://github.com/Veroniqques/UNIX/tree/main/6_Web_server-master)
 
 
 
